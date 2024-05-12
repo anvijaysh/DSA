@@ -1,0 +1,10 @@
+Sliding window questions generally follows these kind of patterns - 
+
+1. Constant window  - 
+  E.g. - Maximum Sum you can obtain with subarray size k
+
+2. Longest {subarray/substring} where {condition}
+
+3. No. of {subarray/substring} where {condition}
+
+4. Shortest/Minimum window with {condition} 
